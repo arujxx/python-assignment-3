@@ -1,0 +1,13 @@
+{
+    "analysis": "Sleep vs GPA",
+    "total_students": 10000,
+    "low_sleep": {
+        "students": 1818,
+        "avg_gpa": 3.48
+    },
+    "high_sleep": {
+        "students": 8182,
+        "avg_gpa": 3.65
+    },
+    "gpa_difference": 0.17
+}
